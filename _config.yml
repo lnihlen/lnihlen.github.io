@@ -1,0 +1,3 @@
+name: Luke Nihlen
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title:output_ext

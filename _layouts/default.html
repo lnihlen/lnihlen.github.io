@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>{{ page.title }}</title>
+      <!-- link to main stylesheet -->
+      <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | absolute_url }}">
+    </head>
+
+    <body>
+      <nav>
+        <ul>
+          <li><a href="{{ "/index.html" | absolute_url }}">Home</a></li>
+          <li><a href="{{ "/blog/index.html" | absolute_url }}">Blog</a></li>
+          <li><a href="{{ "/about.html" | absolute_url }}">About</a></li>
+        </ul>
+      </nav>
+
+      <div class="container">
+        {{ content }}
+      </div><!-- ./container -->
+
+    <footer>
+      <ul>
+        <li>Copyright 2018 Luke Nihlen. Opinions are my own alone.</a></li>
+        <li><a href="www.linkedin.com/in/luke-nihlen-038463169">LinkedIn</a></li>
+        <li><a href="https://github.com/lnihlen">GitHub</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>
