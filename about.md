@@ -4,9 +4,10 @@ title: About Me
 ---
 
 Luke Nihlen grew up in Albuquerque, New Mexico, where he completed both his
-undergraduate and graduate degrees in Computer Engieering at the University
+undergraduate and graduate degrees in Computer Engineering at the University
 of New Mexico. In 2010 he joined Google and moved to Northern California.
-He works at Google still as an Engineering Manager. It should be clear that
+He works at Google still as an Engineering Manager, currently on the
+[Play Movies & TV](https://play.google.com/movies) team. It should be clear that
 all content on this blog is Luke's own opinion and thoughts and in no way
 represents the opinion or any statement by his employer.
 
