@@ -2,6 +2,7 @@
 layout: post
 title: "First Post on New Blog Format"
 date: 2018-08-14
+tags: [ personal ]
 ---
 
 After literally years of silence on the blog I'm going to take another crack at
