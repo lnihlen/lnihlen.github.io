@@ -27,7 +27,8 @@ real treat. Kudos to Hilary for nudging me to get off my ass and book the show,
 booking the flights, rental car, and hotel, and going with me to support what
 was a pretty incredible show.
 
-Another treat about Portland is the awesome array of vegan food. We got in
+Another treat about Portland is the awesome array of
+{% include tag_link.html tag="vegan" %} food. We got in
 before lunch, so took the opportunity to grab some pizza downtown at Sizzle
 Pie. We don't get pizza very often as there are so few places in the bay area
 that have palatable vegan options so this was a great treat.

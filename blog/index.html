@@ -5,9 +5,13 @@ title: Luke Nihlen's Blog
 <h1>{{ page.title }}</h1>
 
 <h2>Tags:</h2>
+
   <ul class="posts">
-    <li><a href="{{ "/tag/i_made_a_thing.html" | absolute_url }}">I Made a Thing!</a></li>
-    <li><a href="{{ "/tag/vcsmc.html" | absolute_url }}">vcsmc</a></li>
+    {% capture tag_names %}{% for tag in site.tags %}{{ tag[0] }}#{% endfor %}{% endcapture %}
+    {% assign sorted_tag_names = tag_names | split:'#' | sort %}
+    {% for tag_name in sorted_tag_names %}
+      <li>{% include tag_link.html tag=tag_name %}</li>
+    {% endfor %}
   </ul>
 
 <h2>All Posts:</h2>

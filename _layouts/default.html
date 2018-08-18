@@ -7,24 +7,14 @@
   </head>
 
   <body>
-    <nav>
-      <ul>
-        <li><a href="{{ "/index.html" | absolute_url }}">Home</a></li>
-        <li><a href="{{ "/blog/index.html" | absolute_url }}">Blog</a></li>
-        <li><a href="{{ "/about.html" | absolute_url }}">About</a></li>
-      </ul>
-    </nav>
+
+    {% include page_header.html %}
 
     <div class="container">
       {{ content }}
     </div><!-- ./container -->
 
-    <footer>
-      <ul>
-        <li>Copyright 2018 Luke Nihlen.</a></li>
-        <li><a href="https://www.linkedin.com/in/luke-nihlen-038463169">LinkedIn</a></li>
-        <li><a href="https://github.com/lnihlen">GitHub</a></li>
-      </ul>
-    </footer>
+    {% include page_footer.html %}
+
   </body>
 </html>

@@ -7,26 +7,10 @@ tags: [ vcsmc, i_made_a_thing ]
 
 It feels fitting, and some continuity with my old blog, to have an early post
 here be an update on my perennial hobby project
-[vcsmc](https://github.com/lnihlen/vcsmc). A quick summary of the backstory is
-that for 3 years or so I worked on the YouTube Living Room team, doing some
-of the early work on getting a client on to the video game consoles. It became
-time to move on and my manager then gave me a parting gift of a custom-painted
-Atari 2600 console and cartridge, made up in YouTube colors and branding.
-
-This kicked off a years-long fascination with the challenge of getting video
-content of any kind to render on the machine. The
-[Stella Programmers Guide](https://alienbill.com/2600/101/docs/stella.html),
-originally published 2 years after I was born, is a good place to dig in to
-the details about writing code for the VCS. Tl;dr is that it's hard because the
-platform is unbelievably constrained - 128 bytes of RAM, no frame buffer, 4-bit
-mono PCM audio, bright neon 7-bit color on NTSC, and a RISC CPU marching along
-in lock step with the scanning electron beam in the CRT. They used to write
-assembly for games using a piece of graph paper showing the timing of the CRT
-beam as it moved across the screen tracing a path through the scan lines.
-
-I've built a system that takes as input an image describing a single
-frame of video and then uses Evolutionary Programming to output a resultant
-binary blob that contains VCS binary to drive the CRT beam through one pass
+{% include tag_link.html tag="vcsmc" %}. To date I've built a system that takes
+as input an image describing a single frame of video and then uses Evolutionary
+Programming to output a resultant binary blob that contains VCS binary to drive
+the CRT beam through one pass
 of its beam from top to bottom, programming the state machine on the video
 hardware to generate something vaguely resembling the desired frame image.
 Computing a single frame takes significant time (hours) and the final results
@@ -58,11 +42,11 @@ following tasks in mind:
 1. **Update the dependencies.** Clean house on the ones I no longer need. I know
 there are newer versions of these things floating around.
 
-2. **Uncomplicate the kernel program generation.** Right now every candidate frame
-image program, called a *kernel* in vcsmc parlance, includes logic to render
-the embedded audio for that frame (by directly modulating the voltage on the
-audio DAC twice per scanline) as well as bank switching logic, because the
-frame programs invariably consume more than the 14 bits of address space
+2. **Uncomplicate the kernel program generation.** Right now every candidate
+frame image program, called a *kernel* in vcsmc parlance, includes logic to
+render the embedded audio for that frame (by directly modulating the voltage
+on the audio DAC twice per scanline) as well as bank switching logic, because
+the frame programs invariably consume more than the 14 bits of address space
 available to the VCS. It seemed a good idea to always generate valid VCS
 program code, but the resultant kernel code is pretty complicated. Rather than
 working so hard to guarantee program validity during kernel generation I'm going
