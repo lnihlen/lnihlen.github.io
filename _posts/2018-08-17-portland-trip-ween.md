@@ -2,7 +2,7 @@
 layout: post
 title: "Portland Trip Day 1, Ween"
 date: 2018-08-17
-tags: [ personal, music ]
+tags: [ personal, music, vegan ]
 ---
 
 Took the day off of work today and headed up to the PDX for a chance to catch
