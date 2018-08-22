@@ -32,5 +32,7 @@ even know if I can use this algorithm as-is or if I need to move on to the
 third revision I've been thinking of, with the explicit switch between foot
 triggering control and automatic tempo scheduling.
 
-Time to go rack up some parts and start following the Raspberry Pi setup guide.
+Time to go rack up some parts and figure out that Raspberry Pi. Found
+[this](https://www.modmypi.com/blog/raspberry-pi-7-touch-screen-assembly-guide)
+setup guide which seems the most clear for getting the touchscreen going.
 
