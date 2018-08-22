@@ -5,7 +5,7 @@ date: 2018-08-21
 tags: [ supercollider, i_made_a_thing ]
 ---
 
-Set up the Pi last night, these things are surprisingly quick for being so
+Set up the Pi last night, these things are surprisingly quick for being
 comparatively inexpensive! Now working to follow the
 [instructions](https://supercollider.github.io/development/building-raspberrypi)
 for building from source.
@@ -30,9 +30,11 @@ in our ongoing project to watch every
 movie from oldest to newest. Some of them have been real stinkers, but this one
 ain't too bad. Hilary said it was "the longest episode of Law and Order" ever.
 
-The quad cores make a big difference in the Raspberry Pi but you when something
+The quad cores make a big difference in the Raspberry Pi but when something
 is single-threaded you can tell that those threads aren't spinning around too
 fast - the UI remains responsive because there are three other cores waiting on
 the input but batch processes take *forever* on this thing.
 
-
+.. And I ran out of time. I only get maybe an hour of so of free time on most
+weeknights so progress is always little drips and drabs. The life of an
+intrepid engineering manager.
