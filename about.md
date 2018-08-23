@@ -3,6 +3,8 @@ layout: default
 title: About Me
 ---
 
+![photo of Luke]({{ "/assets/img/self-photo.png" | absolute_url }})
+
 Luke Nihlen grew up in Albuquerque, New Mexico, where he completed both his
 undergraduate and graduate degrees in Computer Engineering at the University
 of New Mexico. In 2010 he joined Google and moved to Northern California.
