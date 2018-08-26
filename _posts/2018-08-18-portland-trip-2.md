@@ -13,7 +13,7 @@ search for any local {% include tag_link.html tag="modular" %} synth stores.
 Portland has an embarrassment of riches in that it has two great stores,
 [Control Voltage](http://controlvoltage.net/) and
 [Modular 8](http://modular8.com). Compare to the Bay Area, which has one that
-I know of, and Los Angeles which only one as well. In terms of synths stores
+I know of, and Los Angeles which only one as well. In terms of synth stores
 per capita
 Portland is crushing it!
 

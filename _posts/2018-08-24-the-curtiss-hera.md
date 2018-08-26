@@ -22,7 +22,7 @@ In any event the DSR has become my primary commuting tool for all days with
 beautiful weather, which around here is most days, strafing the 17 and then
 splitting lanes on the parking lot that some folks call Highway 85 all the way
 into the Mothership in Mountain View. It's a civilized way to get around in
-a decreasingly civil transportation environment.
+an increasingly uncivil transportation environment.
 
 There's much to like in the Zero. I hear the earlier models were plagued by
 reliability issues but have had Zero problems with mine (hnurr hrr hrr). The
@@ -33,12 +33,16 @@ function of velocity during travel, of course, and to avoid a complicated and
 probably boring discussion around my findings here let's say that I need to
 charge at work in order to get home.
 
+![Zero on 110V]({{ "/assets/img/2018-08-25-1.png" | absolute_url }})
+
 Laughably the Zero comes with a standard 3-prong computer power cable in the
 accessory bag, and there's a receptacle for the business end of it under a
 dust boot on the side of the frame. You can also opt for a 220V rapid charger
 setup, which I did, primarily to charge at work and thus assure my ride home
 goes smoothly. On 220V charging from about 1/3 battery takes a bit under 2
 hours, keeping the (oversubscribed) charger sharing drama at work to a minimum.
+
+![Zero Plastics]({{ "/assets/img/2018-08-25-2.png" | absolute_url }})
 
 Zero has clearly prioritized the sensible things here - the ride. The rest looks
 and feels like it came from a much cheaper motorcycle. For instance the plastics
