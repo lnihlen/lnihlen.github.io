@@ -27,7 +27,7 @@ they are open, and it's been hit-or-miss depending on their availability.
 But the friendly person on the phone at Control Voltage told me that they were
 a "full-on brick and mortar" store and that they would be there until 8.
 
-![synth sign in front of Control Voltage]({{ "/assets/img/2018-08-18-1.png" | absolute_url }})
+![synth sign in front of Control Voltage]({{ "/assets/img/blog/2018-08-18-1.png" | absolute_url }})
 
 I liked the setup of the store, they had
 many different racks set up, each with a headphone amp of some kind or another

@@ -33,7 +33,7 @@ function of velocity during travel, of course, and to avoid a complicated and
 probably boring discussion around my findings here let's say that I need to
 charge at work in order to get home.
 
-![Zero on 110V]({{ "/assets/img/2018-08-25-1.png" | absolute_url }})
+![Zero on 110V]({{ "/assets/img/blog/2018-08-24-1.png" | absolute_url }})
 
 Laughably the Zero comes with a standard 3-prong computer power cable in the
 accessory bag, and there's a receptacle for the business end of it under a
@@ -42,7 +42,7 @@ setup, which I did, primarily to charge at work and thus assure my ride home
 goes smoothly. On 220V charging from about 1/3 battery takes a bit under 2
 hours, keeping the (oversubscribed) charger sharing drama at work to a minimum.
 
-![Zero Plastics]({{ "/assets/img/2018-08-25-2.png" | absolute_url }})
+![Zero Plastics]({{ "/assets/img/blog/2018-08-24-2.png" | absolute_url }})
 
 Zero has clearly prioritized the sensible things here - the ride. The rest looks
 and feels like it came from a much cheaper motorcycle. For instance the plastics
