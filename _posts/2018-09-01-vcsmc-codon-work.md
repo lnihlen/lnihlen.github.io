@@ -7,9 +7,10 @@ tags: [ vcsmc, i_made_a_thing ]
 
 ### Kernel/Genome redesign progress
 
-Finally grabbed some time to hack on vcsmc. The refactor from treating the
-bytecode as the genetic code, to using the codon transcription model, is feeling
-like it's going to take some time.
+Finally grabbed some time to
+[hack](https://github.com/lnihlen/vcsmc/commit/32cdea416193ee10706b50669aaa004891d09ed8)
+on vcsmc. The refactor from treating the bytecode as the genetic code, to using
+the codon transcription model, is feeling like it's going to take some time.
 
 But it also feels like the right direction. Sometimes, when working on a
 refactor, it can be a cool feeling when the new code flows a little more
