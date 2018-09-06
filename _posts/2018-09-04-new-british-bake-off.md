@@ -22,7 +22,7 @@ with their struggles, ambitions, risks, fears, joys, triumphs, and disasters.
 Hil also likes the quick shots of lambs, ducks, and other British garden/farm
 life between scenes.
 
-On the {% include tag_link.thml tag="vcsmc"} front I started work on the
+On the {% include tag_link.html tag="vcsmc" %} front I started work on the
 `State::Apply` method but made no significant progress after completing my
 work homework.
 
