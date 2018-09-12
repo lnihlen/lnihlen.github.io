@@ -11,7 +11,7 @@ They have a new location in Mountain View, so after work I popped by.
 
 I was stoked to see the bigger space then the older store over in Santa Clara.
 They've got a well-defined store area with a reasonable amount of stock,
-surrounded by a large open gaming space. First think I noticed is that they are
+surrounded by a large open gaming space. First thing I noticed is that they are
 making Kill Team specific box sets, and picked up one for the Dark Eldar.
 
 I also went for one of the Millennium Falcon models from that Star Wars X-Wing
