@@ -64,12 +64,13 @@ I kept a running tab on our activities for the day:
     got a pineapple slice. We took refuge from the heat and noise in a quiet
     nook between the Dole Whip station and the giant fencing that has been
     erected around the Tiki Room while it undergoes renovation.
-  * Next was the Indiana Jones ride.
+  * Next was the Indiana Jones ride. I deliberately avoided looking in to the
+    eye but we still had a misadventure.
   * We then did the Pirates of the Caribbean attraction, which loops around the
     Blue Bayou restaurant before the action starts.
   * Our second attempt (ever) at Astro Blasters followed. I'm beginning to
     suspect that the different colors on the Z targets mean different point
-    values. And I can never get a decent sight picture on those blaster guns
+    values. And I can never get a decent sight picture on those blaster guns.
   * We were starting to feel a bit tired so got a FastPass for the Roger Rabbit
     Cartoon Spin, a first for us both, and just relaxed near the fountain
     outside of the ride until it was time to drop in.
