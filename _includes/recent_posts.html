@@ -1,6 +1,6 @@
-<h2>Recent Blog Posts:</h2>
+<h3>Recent Blog Posts:</h3>
 <ul class="posts">
-  {% for post in site.posts limit: 5 %}
+  {% for post in site.posts limit: 7 %}
     <li><span>{{ post.date | date_to_string }}</span>
       <a href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title }}</a>
     </li>

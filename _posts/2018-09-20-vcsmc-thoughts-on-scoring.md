@@ -76,9 +76,9 @@ only a few mutations per generation most images change very little, and most
 changes are localized to only a few pixels.
 
 After scoring, the traditional Evolutionary Programming algorithm calls for a
-tournament, which is where two individuals from the population are selected at
-random and then whichever individual has the better score gets a point. Then
-the population is sorted based on total score and divided in to two
+tournament, which is where each individual from the population competes with
+*n* random individuals, whichever individual has the better score gets a point.
+Then the population is sorted based on total score and divided in to two
 equally-sized groups. Each individual in the lower-score group is replaced by
 a mutated copy of each individual in the higher-score group, and the higher
 score group entire is copied in to the next generation.
