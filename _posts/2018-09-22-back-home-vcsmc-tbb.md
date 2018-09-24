@@ -55,4 +55,4 @@ down the road.
 
 Next time I'll discuss a TBB task-based design for the main evolutionary
 programming multi-frame approach, a program I am calling `epfg`, or
-*e*volutionary *p*rogrmaming across a *f*rame *g*roup.
+*e*volutionary *p*rogramming across a *f*rame *g*roup.
