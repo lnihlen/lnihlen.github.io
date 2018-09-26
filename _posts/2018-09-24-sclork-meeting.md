@@ -57,7 +57,5 @@ One of the things I've learned from
 and engaged with music projects when working in collaboration. So I'm excited
 to see where we go with SCLork. Also, concert Theramin!
 
-
 ![Concert Theramin in SCLork rehearsal space]({{ "assets/img/blog/2018-09-24-1.png" | absolute_url }})
-
 
