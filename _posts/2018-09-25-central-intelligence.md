@@ -14,4 +14,4 @@ which was surprisingly delightful. Dwayne is a really good comic actor, I really
 enjoy seeing him in comedic roles. Lots of funny moments, and some typical
 action shooty fun stuff too.
 
-Moana is coming up soon, which is a favorite for both me and Hilary already.
+Moana is coming up next, which is a favorite for both me and Hilary already.
