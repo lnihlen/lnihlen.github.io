@@ -26,5 +26,5 @@ is usually a good sign.
 TV show of the night is
 [Insecure](https://en.wikipedia.org/wiki/Insecure_%28TV_series%29). This is a
 Hilary pick but I got sucked right in. Issa Rae is incredible, the characters
-are compelling and human. It's super good.
+are compelling and human, the writing and acting are top notch. It's super good.
 
