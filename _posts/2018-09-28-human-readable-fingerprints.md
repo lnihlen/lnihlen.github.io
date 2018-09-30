@@ -24,10 +24,18 @@ first letter in each string while doing so.
 Then, a 64-bit number gets translated to base-370098 number, where each digit
 is an index into the giant string table. The resulting ID string is just a
 concatenization of each "digit" with a capital letter at the start of the
-string. And then we have a human-readable string, albeit a completely
+substring. And then we have a human-readable string, albeit a completely
 nonsensical one.
 
 I'm wanting to build a bunch of logging stuff, with fun features on html pages
 explaining the ins and out of the evolutionary programming process, so this
 was a fun feature to bang out in an hour or so.
 
+This is also the fun of a hobby project, you can do completely ridiculous stuff
+like this. For a follow-on I was thinking of trying to roughly sort a word
+list into adjectives and nouns, then perhaps do something along the lines
+of the
+[adjective order in English](https://dictionary.cambridge.org/us/grammar/british-grammar/about-adjectives-and-adverbs/adjectives-order)
+meme that made the rounds on the Internet a while ago, but we'll see how amusing
+the descriptors are that the naive system generates before getting all fancy
+like that.
