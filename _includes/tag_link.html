@@ -1,1 +1,1 @@
-<a class="tag" href="{{ "/tag" | absolute_url }}/{{ include.tag }}.html">{{ include.tag }}</a>
+{% capture include_html %}<a class="tag" href="{{ "/tag" | absolute_url }}/{{ include.tag }}.html">{{ include.tag }}</a>{% endcapture %}{{ include_html | strip_newlines -}}

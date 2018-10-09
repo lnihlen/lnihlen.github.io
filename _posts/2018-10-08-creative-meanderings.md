@@ -28,7 +28,7 @@ Particularly at Google, folks are strongly encouraged to define their own
 role. Meaning, each of us needs to figure out how we can make impact, create
 value for the company, and do that more.
 
-So I learn a little {% include tag_link.html tag="supercollider" %}, play some
+So I learn a little {% include tag_link.html tag="supercollider" -%}, play some
 drums in {% include tag_link.html tag="oort_cloud" %}, go hack on
 {% include tag_link.html tag="vcsmc" %}, maybe take piano lessons again, or
 I've been thinking about ordering a flute or a cello. I'm planning on installing
