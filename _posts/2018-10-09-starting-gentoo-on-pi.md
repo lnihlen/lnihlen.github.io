@@ -18,7 +18,7 @@ There's [a page](https://wiki.gentoo.org/wiki/Raspberry_Pi) on the Gentoo wiki
 with some loose guides. No AMD32 handbook, unlike the myriad other architectures
 that have one on offer. Thinking like I'm heading into the hinterlands here, and
 that isn't the point of the exercise. So, I'll probably just end up putting
-NOOBS back on this SD card, or perhaps just a regular Rasbian distro.
+NOOBS back on this SD card, or perhaps just a regular Raspbian distro.
 
 Time to focus on an actual plan for testing out some of the `BeaconClock` stuff
 in Utopia. Something like:
@@ -35,7 +35,7 @@ in Utopia. Something like:
   [fanless rackmount computer](https://www.logicsupply.com/products/rackmount-computers/fanless-rackmounts/)
   for the audio rack that I have, but it's a custom build from Logic Supply so
   that might take a minute. That will ultimately take the role of server in this
-  setup, with the Pi standing in as a client Linux computer, perhaps ultimately
+  setup, with the Pi standing in as a client Linux computer, perhaps sometimes
   to be replaced by the set of SCLOrk laptops we use for live performance.
   6. Once that arrives and is configured, explore other use cases for that
   hardware. One thing that immediately comes to mind is multi channel recording,
