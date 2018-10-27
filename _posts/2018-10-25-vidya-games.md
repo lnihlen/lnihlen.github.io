@@ -33,8 +33,8 @@ less well. But the jumping mechanic is surprisingly fun.
 
 High school had me getting in to PC games, as I started spending a lot of time
 on the computer, beginning what would become a lifelong trend. I also got a job
-in used computer software store (hah!) which had me exploring things like dearly
-wishing I had an Amiga 500 and picking up a used copy of Microsoft Macro
+in a used computer software store (hah!) which had me exploring things like
+dearly wishing I had an Amiga 500 and picking up a used copy of Microsoft Macro
 Assembler. I skipped Super Nintendo, concentrating my very limited funds on
 music instruments, marijuana, and food at the
 [Frontier](https://en.wikipedia.org/wiki/Frontier_Restaurant). Thing is, I
