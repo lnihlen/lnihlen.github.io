@@ -26,4 +26,10 @@ going to spend some time working with the Pi cluster to see if I can get them
 up and running to characterize the lag between the clusters. We could notice
 obvious jitter between the laptops when trying ourselves.
 
+We did a rehearsal of the `Ndef` piece, as we call it, playing with whole
+frequency multiples of 47 Hz, then shared some of the different Synths people
+had created.
+
+It's a 3 hour rehearsal, but this one went by so quick.
+
 Back to work tomorrow. Somehow, one day off sometimes is worse than none.
