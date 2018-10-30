@@ -5,7 +5,6 @@ date: 2018-10-28
 tags: [ personal ]
 ---
 
-
 Brief and uncomfortable night’s sleep due largely to the combination of thin
 mattress and steep sideways incline. I found that I was tensing my body in
 whatever direction I was sleeping in order to prevent rolling out of the bed and
