@@ -23,5 +23,6 @@ just like that, mostly eating steak, eggs, and hashbrowns, before I went
 {% include tag_link.html tag="vegan" %}. I'm sure both my cholesterol level and
 the various animals exploited for the meal enjoy the break.
 
-Good times with the band, it's great to be playing gigs.
+Good times with the band, it's great to be playing gigs. I hope I never take
+it for granted.
 
