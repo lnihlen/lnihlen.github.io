@@ -16,7 +16,7 @@ Right off the bat the security guard at the door asked us to turn down. That's
 the second gig in a row (after Saturday night at the Blue Lagoon) that we've
 had to do that. I'm beginning to spot a trend here..
 
-We were basically playing in the diner attached to a bar. They had a gazebo in
+We were playing in the diner attached to a bar. They had a gazebo in
 the center of the place. I genuinely believe there should be more indoor
 gazebos. Hil and I remembered our courtin' days, with much time spent in diners
 just like that, mostly eating steak, eggs, and hashbrowns, before I went

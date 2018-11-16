@@ -5,10 +5,10 @@ date: 2018-11-15
 tags: [ personal ]
 ---
 
-We had an offsite today to the nearby movie theater, walking distance Google
+We had an offsite today to the nearby movie theater, walking distance from Google
 campus, to see the new Fantastic Beasts movie Crimes of Grindelwald. It was a
-cool treat. That theater as remodeled, with large recliners inside covered in
-faux leather.
+cool treat. That theater has remodeled since my last visit, with large recliners
+inside covered in faux leather.
 
 I think this one has a very different tone from the first, much more grimdark,
 much more about the people with only a few fantastic beasts actually
