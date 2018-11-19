@@ -11,7 +11,11 @@ followed by [Junior](https://en.wikipedia.org/wiki/Junior_%281994_film%29).
 
 Spent some more time on {% include tag_link.html tag="vcsmc" %}. For some reason
 I'm getting a crash on my laptop only when running any of the Halide generator
-programs. Spent a bit of time today trying to get that working but no dice.
+programs. No progress on that one, besides some observations. One is that I have
+clang 7 on my laptop vs clang 6 on my desktop, where it does work. So it might
+be worth uninstalling 7 on the laptop and trying out 6. Another thing I noticed
+is the generators are find generating pseudocode, like html, and only crash
+when I try to get them to generate bytecode, like with object files or archives.
 
 Starting in on the implementation of MSSIM stuff. Trying to figure out creative
 ways to test a weighted mean and standard deviation function without
