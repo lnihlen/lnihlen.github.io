@@ -13,6 +13,8 @@ momentum forward and finish up all of the SSIM code and tests.
 
 Then I actually had time to dig in a little to the libav stuff inside of ffmpeg.
 I'm hoping to be able to put together a couple of integration programs in the
-next few days.
-
+next few days. I'm thinking of writing `split` and `join`, two programs that
+will pull apart a supplied movie into constituent frames at 60 Hz and at the
+right resolution for fitting, and another one that will merge up the supplied
+images and allow for progressive encode of the same.
 
