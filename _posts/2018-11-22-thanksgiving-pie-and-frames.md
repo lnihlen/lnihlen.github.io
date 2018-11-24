@@ -34,5 +34,5 @@ I also got a chance to make another pie-related food for the Thanksgiving
 festivities. I made the Seitan Pot Pie from the classic vegan cookbook
 Veganomicon. So, dinner was pot pie followed by pecan pie for dessert.
 
-All in all, a pretty damn good thanksgiving.
+All in all, a pretty damn good Thanksgiving.
 
