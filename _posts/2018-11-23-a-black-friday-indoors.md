@@ -9,7 +9,7 @@ I'm an avid Google News reader, and for the last couple of weeks I've noticed
 that many of the personalized "headlines" have been about Black Friday deals.
 The opportunity to buy an expensive laptop for slightly less than the usual
 exorbitant price to me doesn't necessarily qualify as headline news. So that, in
-combination with the constant all-day rain made it easy for me to celebrate Buy
+combination with the constant all-day rain, made it easy for me to celebrate Buy
 Nothing Day on this Friday after Thanksgiving.
 
 So, I think today was the first actual vacation day that I've had since I
