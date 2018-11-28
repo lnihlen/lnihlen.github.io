@@ -22,5 +22,5 @@ interest partway into the second season. The books are pretty different, at
 least in terms of timing of introduction of characters and perspectives, and
 I'm enjoying them a great deal more.
 
-12 days to go.
+12 working days to go.
 
