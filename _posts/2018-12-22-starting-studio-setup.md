@@ -25,3 +25,8 @@ really start to get good. Poor Harry, stuck at Hogwarts while everyone else
 gets to go to Hogsmeade. But I have a feeling the Weasley twins have something
 to say about that.
 
+Monday will be a day of cooking, I'm planning a
+{% include tag_link.html tag="vegan" %} cranberry pie, as well as trying my
+hand at vegan Swedish meatballs, with a new ingredient, soy curls. So time to
+build that shopping list.
+
