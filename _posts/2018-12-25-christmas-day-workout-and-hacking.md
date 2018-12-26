@@ -40,6 +40,7 @@ Big work items left:
   * Timeout of unresponsive clients.
   * Director mode, which adds a "shout" option to the message types.
   * Finish documentation and package Quark into first release.
+  * Command-period survival.
 
 I'm hopeful this will all work out in the next day or two at most, but it is
 quite a bit of work. Should be lots of fun, however!
