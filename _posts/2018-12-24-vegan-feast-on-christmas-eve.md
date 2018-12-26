@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vegan Feast on Christmas Eve"
-date: 2018-12-23
+date: 2018-12-24
 tags: [ personal, vegan, sclork ]
 ---
 
