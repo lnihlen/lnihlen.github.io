@@ -54,3 +54,7 @@ system! Yay!
 Now to really get heads down and finish up the SCLOrkClock work. Tomorrow's
 really the last shot I have at it and I want everything to be working great.
 
+Update: turns out it was just that I had forgotten to add my user to the `video`
+group. Yeah. Oh well all's better now. But I still think I'm not turning that
+splash screen back on.
+
