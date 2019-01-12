@@ -25,5 +25,5 @@ Wynn called Parasol Down. I made a joke that that's sounds like the name of a
 Mary Poppins war movie and I tell you I haven't been that satisfied with myself
 for making a joke in quite a while.
 
-The almost script writes itself on that one.
+The script almost writes itself on that one.
 
