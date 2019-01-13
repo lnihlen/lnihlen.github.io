@@ -22,6 +22,9 @@ Then it was home to see the animals at home. After a week in the desert, and a
 week of rain here, everything seems so green and lush. It was lovely to have
 some cuddles with the doggies.
 
+We had Thai for dinner, then watched the first in the Sydney Lumet moves,
+12 Angry Men. It was as good as I remember from High School.
+
 I finally finished up the latest
 [SCLOrkNet](https://github.com/lnihlen/SCLOrkNet) work on the SLOrkWire. That's
 all checked in, and then I had some time start refactoring the SCLOrkChat code
