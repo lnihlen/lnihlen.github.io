@@ -34,6 +34,6 @@ marching band drummers in awe. It was always the way to get massive chops. And
 I gotta say, it's so much fun to play in a percussion line.
 
 Probably need to make some time to work on
-{% include tag_link.html tag="sclork %} soon, as we were hoping to have that new
-UI spun up soon.
+{% include tag_link.html tag="sclork" %}, as we were hoping to have that new UI
+spun up soon.
 
