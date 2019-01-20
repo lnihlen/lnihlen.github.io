@@ -33,7 +33,7 @@ After lunch at Cafe Cruz and some grocery shopping Hil and I managed to squeeze
 in a trip to the beach in Watsonville with the doggies. With so much rain
 they've been going a bit stir crazy pent up in the yard and house.
 
-The only thing about today is that the {% include tag_link.html tag="sclork %}
+The only thing about today is that the {% include tag_link.html tag="sclork" %}
 rehearsal is one day closer and I still really don't have line of sight on
 building that UI for our most recent piece.
 
