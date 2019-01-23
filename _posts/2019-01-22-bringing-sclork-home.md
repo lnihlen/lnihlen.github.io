@@ -9,11 +9,10 @@ Limited time today to hack on {% include tag_link.html tag="sclork" %} but after
 getting home I did manage to bang out the "return trip" in the round-trip
 engineering project for our PublicDomain piece. Yesterday I got the
 code-to-UI path working, where we parse the provided code into individual labels
-and editable UI elements, but wasn't able
-to complete the UI-to-code path, where editing individual UI elements will
-efficiently update the code. The keyword there is "efficiently," in that as
-code gets longer doing the easy thing of parsing the entire code string again
-becomes quickly intractable.
+and editable UI elements, but wasn't able to complete the UI-to-code path, where
+editing individual UI elements will efficiently update the code. The keyword
+there is "efficiently," in that as code gets longer doing the easy thing of
+parsing the entire code string again becomes quickly intractable.
 
 Fortunately, for the ```Pbindef``` statements in question for this UI, they are
 quite tractable, with none of them over 100 lines. So, with cutting a lot of
@@ -22,7 +21,7 @@ for me to complete workable solutions in a relatively short time.
 
 While a lot of what I've built for SCLOrk feels like infrastructure, meaning
 that typically those pieces will be used for every rehearsal and performance
-that we will do. The [SCLOrkPD](https://github.com/lnihlen/SCLOrkPD) Quark is
+that we will do, the [SCLOrkPD](https://github.com/lnihlen/SCLOrkPD) Quark is
 obviously designed for a single-use piece. After the end of the month, where
 we are planning on performing the PublicDomain piece, I'm not sure we'll ever
 want to use this again.
