@@ -10,6 +10,10 @@ so I opted to sleep in a bit instead of heading over the hill for Samba practice
 Been feeling just tired and run down all day, including even taking a nap in
 the afternoon for a few hours.
 
+It's been raining all day and, for a brief moment, we had a heavy hailstorm,
+reminding me more of weather in my home state of New Mexico than here in
+Northern California. Tomorrow looks to be raining all day too.
+
 So not a great day for getting stuff done but a good day to rest and recover. I
 *did* manage to make some more progress wiring up and screwing down all of the
 modules for the {% include tag_link.html tag="egregious" %} live set I'm putting
