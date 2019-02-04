@@ -15,7 +15,7 @@ deployed for this show:
   * [SCLOrkChat](https://github.com/lnihlen/SCLOrkChat)
   * [SCLOrkClock](https://github.com/lnihlen/SCLOrkClock)
   * [SCLOrkPD](https://github.com/lnihlen/SCLOrkPD)
-  * The Gentoo server that powers the network and Supercollider server components
+  * The Gentoo server that powers the network and SuperCollider server components
 
 So I'm glad we did three dry runs tonight, and the larger student ensemble
 has been hammering on the code, three times a week, for a few weeks now. Of
