@@ -16,6 +16,8 @@ Our bass player is struggling with some kind of ongoing cold so he's going to
 bow out tonight. We brought a friend from KFJC in, too, so it should be
 interesting to see how the jam takes shape.
 
+![Day of Noise T-Shirt]({{ "assets/img/blog/2019-02-09-1.png" | absolute_url }})
+
 We made our way over the hill early to meet the band for dinner at Oren's in
 downtown Mountain View. It's been raining on and off all day, with the drive
 through the 17 fairly inundated at times. After dinner we headed over to the
@@ -42,7 +44,7 @@ the preparation, practice, and also just experience to know what gear is useful
 and what you will need to control your sound well enough to make happen what
 you want to make happen is really quite difficult.
 
-Grawer said he'd be happy to help me get some gigs for Egregious, and what would
+Grawer said he'd be happy to help me get some gigs for {% include tag_link.html tag="egregious" %}, and what would
 really help is to get a website and some sounds going. So that's the next big
 goal. There's also the Wednesday Night Live thing on KZSU, which
 {% include tag_link.html tag="oort_cloud" %} has done a few times and I think

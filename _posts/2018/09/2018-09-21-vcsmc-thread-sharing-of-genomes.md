@@ -12,7 +12,7 @@ SJC.
 Been a long week and I'm totally fried. But I've been thinking some more about
 the next layer of detail on the per-thread, per-image scoring system I outlined
 in the post
-[yesterday]({{ site.baseurl }}{% post_url 2018-09-20-vcsmc-thoughts-on-scoring %}).
+[yesterday]({{ site.baseurl }}{% post_url /2018/09/2018-09-20-vcsmc-thoughts-on-scoring %}).
 
 Since each thread is fitting against its own target image, and maintains its own
 spec, this actually decouples all of the threads from one another for the
