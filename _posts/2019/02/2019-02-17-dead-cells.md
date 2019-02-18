@@ -2,7 +2,7 @@
 layout: post
 title: "Dead Cells"
 date: 2019-02-17
-tags: [ sclork, supercollider, oort_cloud egregious ]
+tags: [ sclork, supercollider, oort_cloud, egregious ]
 ---
 
 Perf is upon us at work and I'm of course infected with a particular case of the
