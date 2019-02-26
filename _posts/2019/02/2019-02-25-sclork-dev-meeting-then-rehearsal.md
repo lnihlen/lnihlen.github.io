@@ -2,7 +2,7 @@
 layout: post
 title: "SCLOrk Dev Meeting then Rehearsal"
 date: 2019-02-25
-tags: [ personal, sclork ]
+tags: [ personal, sclork, kfjc ]
 ---
 
 Today felt like it all came in a rush, up early for a typical Monday at work, everything needing attention at once, re-spooling
