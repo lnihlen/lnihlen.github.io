@@ -14,7 +14,7 @@ and will be so for at least a month out.
 The exhaustion, I realize, comes from the mantle of self doubt that I'm
 wearing at all times. It adds an energetic cost to my every decision, and my
 job is to try and make good decisions, you can see how that tax might stack up
-fast. I was telling a sympathetic and supportive co-worker today, that's it
+fast. I was telling a sympathetic and supportive co-worker today, that it
 feels like how one feels when hiking with a heavy frame backpack. That kind
 of bone-deep tired after a long day of hiking around with 40 lbs on your back.
 
