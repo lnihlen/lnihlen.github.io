@@ -19,5 +19,5 @@ between jokes. I might try to rack out again soon but I don't want to disturb
 Hilary with attempts trying to fall back asleep.
 
 Tomorrow (well in a few hours) is a big day, with a couple of pretty important
-meetings. Wishing to find some peace.
+meetings. Wishing to find some peace soon, hopefully this weekend.
 
