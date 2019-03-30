@@ -23,8 +23,10 @@ the tutorial if I think it will bring me closer to the target functionality I
 need in Scintillator. The vision always has been that the code would assemble
 shader programs from individual units, then send the whole mess to the shader
 compiler at runtime, with hopefully a bunch of optimizations turned on. This
-would happen around ```VSynthDef``` time on a separate thread, which is expected
-to be an asynchronous operation, and really where the heart of the synth lives.
+would happen around ```VSynthDef``` (or a pun name that I'm starting to think of
+```ScinthDef``` which is admittedly terrible) time on a separate thread, which
+is expected to be an asynchronous operation already, so can take a little bit of
+time.
 
 Vulkan may have a way to combine individual pieces of shaders in a single render
 pass but I still would bet that letting the SPIR-V compiler take a crack at the
@@ -38,5 +40,4 @@ significantly increasing the compilation time of the program as a result. At
 least incremental build times will only be marginally impacted. And I basically
 just brought an *entire compiler* into the project, which is pretty cool for an
 hour's work or so chilling on the couch watching Drag Race.
-
 
