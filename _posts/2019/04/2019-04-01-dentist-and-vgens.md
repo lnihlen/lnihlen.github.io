@@ -61,7 +61,6 @@ the calls is handled by the ```AbstractFunction``` superclass, which defines
 ```
 AbstractFunction {
 ...
-
     // respond to math operators
     neg { ^this.composeUnaryOp('neg') }
     reciprocal { ^this.composeUnaryOp('reciprocal') }
@@ -69,7 +68,7 @@ AbstractFunction {
     abs { ^this.composeUnaryOp('abs') }
     asFloat { ^this.composeUnaryOp('asFloat') }
 ...
-
+}
 ```
 
 Now overriding this function is key, as it allows ```UGen``` to provide a
@@ -155,14 +154,13 @@ UGen : AbstractFunction {
 
 So for those following along at home that call to ```.abs```:
 
-    * got handled by ```AbstractFunction```, which called ```compuseUnaryOp```,
-    * which got picked up in ```UGen```, creating a new ```UnaryOpUGen```,
-    * and the ```UnarOpUGen.new``` called ```multiNew``` up in parent ```UGen```,
-    * which punted it to ```multiNewList``` right below, which does some
-      complicated magic around multichannel expansion but for the simple case
-      just returns the results of ```this.new1(*args)```,
-    * which handles the rate (```.ar``` and such, boiling down to ```\control```
-      or ```\audio```), and chains both a call to ```addToSynth``` and ```init```.
+  * got handled by ```AbstractFunction```, which called ```compuseUnaryOp```,
+  * which got picked up in ```UGen```, creating a new ```UnaryOpUGen```,
+  * and the ```UnarOpUGen.new``` called ```multiNew``` up in parent ```UGen```,
+  * which punted it to ```multiNewList``` right below, which first processes
+    each argument with ```asUGenInput``` but ultimately calls ```this.new1(*args)```,
+  * which handles the rate (```.ar``` and such, boiling down to ```\control```
+    or ```\audio```), and chains both a call to ```addToSynth``` and ```init```.
 
 Phew. Lots of indirection there but the flexibility granted is pretty incredible,
 allowing for grouping of ```UGens``` by their input semantics, and making it
