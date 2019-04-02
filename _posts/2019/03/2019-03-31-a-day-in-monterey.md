@@ -35,7 +35,7 @@ going to dedicate the headline to that event until the pixels are genuinely
 ones from a hard-coded (at first) synth of my own design, but it still was
 a pretty exciting moment:
 
-![First Pixel Render In Scintillator]({{ "assets/img/blog/2019-02-09-1.png" | absolute_url }})
+![First Pixel Render In Scintillator]({{ "assets/img/blog/2019-03-31-1.png" | absolute_url }})
 
 Ah yes, the famed RGB triangle of joy. It's been a long road here, and honestly
 a bit of the stuff towards the end was rushed and I was just sort of jamming
