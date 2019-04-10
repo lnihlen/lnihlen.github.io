@@ -5,6 +5,8 @@ date: 2019-03-14
 tags: [ personal, sclork, kfjc ]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D5kObtMMgNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In what I expect is very nearly the peak of {% include tag_link.html tag="sclork" %} concert
 season we performed at Dolby Labs in San Francisco this evening, as part of a fundraising
 event for Santa Clara University.
