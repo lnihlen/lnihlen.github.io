@@ -25,8 +25,8 @@ a separate card and calling it a day.
 
 I multitasked and got Windows installed on an old Linux workstation that I've been meaning to turn in to a gaming rig.
 At least that worked OK, and I got a little fix of Diablo 3 after getting that going. I found a new game too that's
-pretty fun, Mutant: Road to Eden. Got a neat mix of XCOM and S.T.A.L.K.E.R. with some interesting Howard the Duck
-mutant twist in there. Pretty fun.
+pretty fun, Mutant Year Zero: Road to Eden. Got a neat mix of XCOM and S.T.A.L.K.E.R. with some interesting Howard the
+Duck mutant twist in there. Pretty fun.
 
 So maybe tomorrow I'll get some time in on the personal projects? We'll have to see. Time is of the essence on that
 document for SuperCollider, so think I'd better start there.
