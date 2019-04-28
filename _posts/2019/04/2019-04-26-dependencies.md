@@ -18,8 +18,8 @@ sides are speaking the same language.
 
 All that aside, there's just *a ton* of really neat tools out there to facilitate this project. For persistent storage
 I'll be using [LevelDB](https://github.com/google/leveldb), from two nerd superheroes inside of Google, Jeff Dean and
-Sanjay Ghemawat. This is a really neat and fast file-based key-value store, allowing us to add a ton of assets like
-images, code snippets, and even audio samples, to the database yet allowing the system to scale elegantly.
+Sanjay Ghemawat. This is a fast file-based key-value store, allowing us to add a ton of assets like images, code
+snippets, and even audio samples, to the database yet allowing the system to scale elegantly.
 
 Speaking of Google projects, I've already pulled in [gflags](https://github.com/gflags/gflags) for dead simple command
 line parsing, and I have a suspicion that we'll be seeing the unit testing tools
