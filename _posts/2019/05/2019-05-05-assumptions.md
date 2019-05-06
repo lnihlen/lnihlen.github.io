@@ -33,17 +33,18 @@ backpack.
 
 I have managed to make some progress on some documentation for {% include tag_link.html tag="sclork" %},
 and given that I have in-flight WiFi I'm thinking I might start roughing in some of the code for the
-AssetManager on the C++ side, giving me a chance to work on some of the exciting new filesystem abraction
+AssetManager on the C++ side, giving me a chance to work on some of the exciting new filesystem abstraction
 stuff in C++-17. That's a piece that's largely orthogonal to the work I had started on my laptop but
 hadn't bothered to commit. Grumble grumble again about my assumption about being able to work on my laptop
 on the flight.
 
-I also had time to knuckle down a bit more and write down some thoughts arond the
+I also had time to knuckle down a bit more and write down some thoughts around the
 {% include tag_link.html tag="supercollider" %} code formatting project. We're heading into a phase now that
-calls for actual delieverables like documentation and tooling, so hopefully that's a promising early sign
+calls for actual deliverables like documentation and tooling, so hopefully that's a promising early sign
 of closure.
 
 It's probably even healthy for me to have to improvise a bit here with my gear, break some of my normal
 access patterns, examine some of my attachments to outcomes and tools alike. And who am I to complain,
 really? I'm on a plane to *freakin' France* after all. As cramped and uncomfortable as this is, I'm not
 losing sight of what an incredible treat this is, and how lucky I am to be here. Elbow politik and all.
+
