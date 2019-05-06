@@ -38,6 +38,11 @@ stuff in C++-17. That's a piece that's largely orthogonal to the work I had star
 hadn't bothered to commit. Grumble grumble again about my assumption about being able to work on my laptop
 on the flight.
 
+I also had time to knuckle down a bit more and write down some thoughts arond the
+{% include tag_link.html tag="supercollider" %} code formatting project. We're heading into a phase now that
+calls for actual delieverables like documentation and tooling, so hopefully that's a promising early sign
+of closure.
+
 It's probably even healthy for me to have to improvise a bit here with my gear, break some of my normal
 access patterns, examine some of my attachments to outcomes and tools alike. And who am I to complain,
 really? I'm on a plane to *freakin' France* after all. As cramped and uncomfortable as this is, I'm not
