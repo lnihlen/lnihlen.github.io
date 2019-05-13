@@ -2,7 +2,7 @@
 layout: post
 title: "Solitary Bees"
 date: 2019-05-11
-tags: [ personal, solitary_bees supercollider ]
+tags: [ personal, solitary_bees, supercollider ]
 ---
 
 Today opened rainy and so we took a break from hiking around the incredible French countryside and instead had a series
