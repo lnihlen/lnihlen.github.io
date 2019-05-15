@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <title>ParseVis</title>
+        <script src="parse.js"></script>
+        <style>
+.right {
+    float: right;
+    width: 30%;
+    font-family: monospace;
+    overflow: auto;
+}
+.left {
+    float: left;
+    width: 70%;
+    font-family: monospace;
+    position: fixed;
+}
+.normal {
+    color: #000;
+    background: #fff;
+}
+.highlight {
+    color: #000;
+    background: #f77 !important;
+}
+.sourcepos {
+    color: #000;
+    background: #f22 !important;
+}
+.whitespace {
+    color: #777;
+    background: #eee;
+}
+.selectednode {
+    color: #000;
+    background: #777;
+}
+.children {
+    color: #000;
+    background: #77f;
+}
+.parents {
+    color: #000;
+    background: #7f7;
+}
+        </style>
+        <script>
+function processSource(source) {
+    var out = "";
+    for (var i in source) {
+        var c = source[i];
+        var style = "class=\"normal\"";
+        var suffix = "";
+        switch (c) {
+        case " ":
+            c = "&middot;";
+            style = "class=\"whitespace\"";
+            break;
+
+        case "\n":
+            c = "&#x23ce";
+            style = "class=\"whitespace\"";
+            suffix = "<br/>";
+            break;
+
+        case "\t":
+            c = "&#x21e5&nbsp;&nbsp;&#x21e5";
+            style = "class=\"whitespace\"";
+            break;
+        }
+        out += "<span id=\"s_" + i + "\" " + style + ">" + c + "</span>" + suffix;
+    }
+
+    return out;
+}
+
+function processNodes(nodes) {
+    var out = "<h2>hover over a node for parents highlighted in green, children highlighted in blue</h2>";
+    for (var i in nodes) {
+        if (!nodes[i]) continue;
+        out += "<div id=\"n_" + i + "\" onmouseover=highlightNode(" + i + ")>";
+        out += "<strong>" + i + ":</strong>";
+        out += " " + nodes[i].nodeType;
+        if (nodes[i].name) {
+            out += " name: " + nodes[i].name;
+        }
+        if (nodes[i].slot) {
+            out += " slot: " + nodes[i].slot;
+        }
+        out += "</div>"
+    }
+    return out;
+}
+
+var hN = -1;
+
+function unhighlightNode() {
+    if (hN < 0) { return; }
+    var highlightPos = nodes[hN].textPosition;
+    var highlightLength = nodes[hN].parseLength;
+    var start = highlightPos - highlightLength + 1;
+    for (var k = 0; k < highlightLength - 1; k++) {
+        document.getElementById("s_" + (start + k)).classList.remove("highlight")
+    }
+    document.getElementById("s_" + highlightPos).classList.remove("sourcepos");
+
+    document.getElementById("n_" + hN).classList.remove("selectednode");
+
+    for (var j in nodes[hN].contains) {
+        document.getElementById("n_" + nodes[hN].contains[j]).classList.remove("children");
+    }
+
+    for (var l in nodes[hN].containedBy) {
+        document.getElementById("n_" + nodes[hN].containedBy[l]).classList.remove("parents");
+    }
+}
+
+function highlightNode(i) {
+    unhighlightNode();
+    hN = i;
+
+    // highlight source code.
+    var highlightPos = nodes[hN].textPosition;
+    var highlightLength = nodes[hN].parseLength;
+    var start = highlightPos - highlightLength + 1;
+    for (var k = 0; k < highlightLength - 1; k++) {
+        document.getElementById("s_" + (start + k)).classList.add("highlight");
+    }
+    document.getElementById("s_" + highlightPos).classList.add("sourcepos");
+
+    // highlight node
+    document.getElementById("n_" + hN).classList.add("selectednode");
+
+    // highlight children nodes.
+    for (var j in nodes[hN].contains) {
+        document.getElementById("n_" + nodes[hN].contains[j]).classList.add("children");
+    }
+
+    // highlight parent nodes.
+    for (var l in nodes[hN].containedBy) {
+        document.getElementById("n_" + nodes[hN].containedBy[l]).classList.add("parents");
+    }
+}
+
+function onload() {
+    var processedSource = processSource(sourceCode);
+    document.getElementById("source").innerHTML = processedSource;
+    var processedNodes = processNodes(nodes);
+    document.getElementById("nodes").innerHTML = processedNodes;
+}
+        </script>
+    </head>
+    <body onload="onload()">
+        <div class="row">
+          <div class="left" id="source"></div>
+          <div class="right" id="nodes"></div>
+        </div>
+    </body>
+</html>
