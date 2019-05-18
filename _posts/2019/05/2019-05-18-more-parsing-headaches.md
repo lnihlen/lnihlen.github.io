@@ -54,3 +54,11 @@ and control.
 
 But all that's for another day.
 
+I also cracked open my work laptop for the first time in two weeks and was delighted to discover mostly good or neutral
+news, and it only took me an hour or two to get through the email backlog. Much more humane than I was expecting. It's
+looking to be a busy/full work week here in London but that was consistent with my expectation.
+
+Tomorrow Hilary and I are meeting with a fellow alumnus from the CAMP class to go see a show at a local gallery here in
+London by the course instructor, Chris Watson. Looking forward to it, should be a great way to finish off my vacation as
+I turn my attention back to work.
+
