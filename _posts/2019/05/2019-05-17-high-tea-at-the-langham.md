@@ -9,7 +9,7 @@ When I packed for being out of town for almost all of May I had basically three 
 French countryside in possibly cold and rainy conditions with field recording equipment, walking around Toulouse and
 London, and working in and around the Google London office. Although folks do dress a bit sharper at the Google London
 office than in California, none of those three conditions successfully anticipated the need for something nice for High
-Team at the Langham London, one of the oldest continuously operating hotels in London and pretty darn posh.
+Tea at the Langham London, one of the oldest continuously operating hotels in London and pretty darn posh.
 
 So Hilary and I spent some time this morning walking around London (an activity that I was at least prepared for),
 looking for some nice sweater or sports coat that I could buy so I wouldn't show up at our high tea appointment at 2pm
