@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Garden of Memory"
-date: 2019-06-22
+date: 2019-06-21
 tags: [ personal, sclork ]
 ---
 
