@@ -63,10 +63,12 @@ equations like the Duffing equation, although they are generally applied in situ
 are zero.
 
 There's [a paper](https://ntrs.nasa.gov/search.jsp?R=19740026877) from NASA in the 1970s that derives a general-purpose
-RKN integrator. Always cool to run in to the [blue meatball](https://en.wikipedia.org/wiki/NASA_insignia) in my travels.
-Also figures that, given orbital mechanics equations are mostly second-order differential equations, that they would be
-interested in efficient integration of these formulae from back in the day. It's getting late tonight but I might
-consider that being the place where I start next time I look at this, which will hopefully be tomorrow.
+RKN integrator. Erwin Fehlberg did some pioneering work there in the 1970s and their name is all over these integration
+papers. Always cool to run in to the [blue meatball](https://en.wikipedia.org/wiki/NASA_insignia) in my travels. Also it
+figures NASA would be interested, given orbital mechanics equations are mostly second-order differential equations, that
+they would be interested in efficient integration of these formulae from back in the day. It's getting late tonight but
+I might consider that being the place where I start next time I look at this, which will hopefully be tomorrow. Music of
+the Spheres, indeed.
 
 And, of course, I realize that I haven't yet booted the SuperCollider audio server tonight! So I'll wrap up here and
 quickly try to make some sounds before bed.
