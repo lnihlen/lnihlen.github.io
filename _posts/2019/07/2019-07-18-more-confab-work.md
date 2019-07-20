@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More Confab Work"
-date: 2019-07-19
+date: 2019-07-18
 tags: [ personal, sclork ]
 ---
 
