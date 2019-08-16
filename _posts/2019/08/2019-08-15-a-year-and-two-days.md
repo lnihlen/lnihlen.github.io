@@ -23,3 +23,5 @@ blog, because that wasn't the point. I'm sure most of these posts have been read
 useful to actually understand that. Plus a fresh coat of paint probably wouldn't hurt. If I recall from a year or so ago
 (hah) I probably have spent a total of an hour styling this blog, in case it wasn't obvious.
 
+So, big plans in store but of course there's always the matter of time.
+
