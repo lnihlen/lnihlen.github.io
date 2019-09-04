@@ -25,5 +25,3 @@ for years possibly, for an opportunity to open at higher organizational levels w
 that it is an article of faith, or detachment, that those same higher organizational levels within the company are going
 to make decisions that make sense, within a reasonable length of time.
 
-I'm not so sure that I hold that faith, anymore. So I'm putting out my shingle, for the first time in a long time.
-
