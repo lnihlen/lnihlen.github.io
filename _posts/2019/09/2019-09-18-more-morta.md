@@ -14,7 +14,8 @@ these new systems into your play in order to survive.
 
 Runes, introduced just a few sessions ago, are now essential to survive. The secondary and tertiary skills of each
 character demand individual strategies and must be employed effectively in order to progress. The game establishes a
-comfortable cadence of content introduction and then breaks it. And the small emotional moments, characterizing
-different aspects of Bergson family life, are satisfying yet mostly understated. This is a masterfully made video game,
-I enthusiastically recommend it and am enjoying it thoroughly.
+comfortable cadence of content introduction and then breaks it, changing directions and evolving in new and interesting
+directions.. And the small emotional moments, characterizing different aspects of Bergson family life, are satisfying
+yet mostly understated. This is a masterfully made video game, I enthusiastically recommend it and am enjoying it
+thoroughly.
 
