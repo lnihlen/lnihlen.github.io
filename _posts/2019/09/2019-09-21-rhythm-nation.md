@@ -15,7 +15,7 @@ how I might be able to reproduce them with {% include tag_link.html tag="scintil
 that project.
 
 Aside from that, I spent a minute on some of the sound design homework for the new
-{% include tag_link.html tag="sclork %} piece, and played some Diablo 3. It will be nice to have a day mostly at home,
+{% include tag_link.html tag="sclork" %} piece, and played some Diablo 3. It will be nice to have a day mostly at home,
 hopefully to rest and relax a bit before plunging back into the work week. But now it's late, after returning home from
 the long drive from San Francisco, and the weekend is already more than halfway done.
 
