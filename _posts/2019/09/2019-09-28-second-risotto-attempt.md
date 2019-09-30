@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Second Risotto Attempt"
-date: 2019-09-27
+date: 2019-09-28
 tags: [ personal ]
 ---
 
