@@ -32,6 +32,8 @@ challenging recording environment. Right towards the end of the day I found a sp
 minutes of audio, but the waves were breaking over the low concrete wall the mic was behind and I started getting
 worried about salt water landing on my beautiful new microphone.
 
+![sheltered recording spot]({{ "assets/img/blog/2019-09-29-1.png" | absolute_url }})
+
 I want to go back a few times more, at least to try my luck a few more times with the wind and the airplane traffic. I'm
 thinking I could miss a little sleep (or maybe a lot) one morning, leave the house in the middle of the night, and catch
 the dawn chorus up there, then roll over to work after. If I had located a sheltered spot that I could reliably return
